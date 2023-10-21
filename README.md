@@ -1,7 +1,6 @@
 # Top 20 Excel Formulas Tutorial
 video url: https://www.youtube.com/watch?v=ATJ0lTDTJy8
 
-Practice Dataset: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2lqY2VzMkhXYlRLdW5fNjlzdG1rUDJwamNOZ3xBQ3Jtc0tsX1pHSFBoUFR6RmRGUUdmTlJaVVIxMGdMVWtLS3YxQ0I0cGJZaDlqMlJsdTRaeGp6QUxMakZiSGstOEF2T2hhVXBsNVRWQnJRZUt3VFJpLXJLa0tYcHd5aFUtcXRrLWFSbXlFS253U19Jclg4ZXpBWQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F15fponJsnykg1BrkwQpE0w-KCccRfxCyE%2Fview%3Fusp%3Dsharing&v=ATJ0lTDTJy8
 
 
 Welcome to the "Top 20 Excel Formulas Tutorial"! In this video, we'll dive into some of the most essential Excel formulas and functions to help you become an Excel pro. Whether you're a beginner or an experienced user, these Excel formulas will improve your productivity and data analysis skills.
@@ -69,4 +68,6 @@ Whether you're managing financial data, analyzing business metrics, or working o
 
 Watch the video, follow along, and level up your Excel skills today!
 
-[Watch the video on YouTube](#) [Subscribe to the channel](#)
+
+Practice Dataset: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2lqY2VzMkhXYlRLdW5fNjlzdG1rUDJwamNOZ3xBQ3Jtc0tsX1pHSFBoUFR6RmRGUUdmTlJaVVIxMGdMVWtLS3YxQ0I0cGJZaDlqMlJsdTRaeGp6QUxMakZiSGstOEF2T2hhVXBsNVRWQnJRZUt3VFJpLXJLa0tYcHd5aFUtcXRrLWFSbXlFS253U19Jclg4ZXpBWQ&q=https%3A%2F%2Fdrive.google.com%2Ffile%2Fd%2F15fponJsnykg1BrkwQpE0w-KCccRfxCyE%2Fview%3Fusp%3Dsharing&v=ATJ0lTDTJy8
+
